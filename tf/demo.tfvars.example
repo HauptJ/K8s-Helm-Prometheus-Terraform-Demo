@@ -1,0 +1,11 @@
+cluster_name = "prom-demo"
+cluster_version = "1.32.5-do.5"
+region = "nyc3"
+host_domain = "dsort.net"
+min_nodes = 2
+host_names = [
+  "prom",
+  "alert",
+  "graf",
+  "node"
+]
