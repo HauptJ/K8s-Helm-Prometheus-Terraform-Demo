@@ -2,6 +2,8 @@
 
 Terraform / OpenTofu, Kubernetes, and Helm Deployment to demonstrate the Kube-Prometheus-Stack. This is the Terraform / OpenTofu deployment script which incorporates the K8s and Helm chart configurations used during my ["Intro to Kubernetes Helm, K8s Operators, and Prometheus Monitoring" Presentation on Oct. 20. 2025.](https://www.meetup.com/dsort-net/events/311539053/)
 
+[Presentation Slide Deck](https://docs.google.com/presentation/d/17Q1xMQLOHw1-v-LeeZW3sKYAw4oUyYhs2gU7O0OuEEI/edit?usp=sharing)
+
 ## Prerequisites
 
 - A DigitalOcean account and an API key - [Promotion: Spend $25 on DigitalOcean and receive a $200 credit.](https://m.do.co/c/d3723dfedb27)
